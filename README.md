@@ -48,6 +48,3 @@ Or, just double-click `index.html` to open in any modern browser.
 - [CSS Styling](https://www.w3schools.com/css/)
 - [JavaScript Intro](https://www.w3schools.com/js/)
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
