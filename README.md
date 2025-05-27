@@ -33,8 +33,14 @@ To preview the webpage:
 Or, just double-click `index.html` to open in any modern browser.
 
 ## 🖼️ Screenshot
+![image](https://github.com/user-attachments/assets/81443571-cf76-489b-ac95-47067edfcef6)
 
 ![Webpage Preview](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d)
+
+![image](https://github.com/user-attachments/assets/1023e0fd-3832-417e-bcde-66c80b3e4ed3)
+
+![image](https://github.com/user-attachments/assets/752f615c-23d3-4713-a263-8a7a985e1872)
+
 
 ## 📚 Learn More
 
